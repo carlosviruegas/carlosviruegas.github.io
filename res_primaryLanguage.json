@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I am a senior full-stack engineer and I specialize in React/Next, Redux, Angular, Vue, TypeScript, Node.js, Express.js, JavaScript, Laravel, Wordpress, PHP, Python/Django/Flask, Golang, AI, Java, MongoDB, MySQL, PostgreSQL, and Rest API. My most recent experience comes from freelance/contract jobs on Upwork/Freelancer/Indeed as a senior engineer who steps in to help companies that need urgent development resources. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Full-Stack Engineer (Startup) - GigWrksEnt",
+        "startDate": "2022",
+        "description": "Conceptualized, designed, and programmed a marketplace for buying, selling and renting prop items for the film industry. Designed 32 screens utilizing material UI. Conducted thorough research with users, competitors, and current market tools. Worked with Tensorflow Tiramisu Model to train out dataset related to background removal processing. Coded to identify and save distinction between the foreground and the background, so that the model can learn how to separate them.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gigwrksent/gigwrksent-1.png",
+          "images/portfolio/gigwrksent/gigwrksent-2.png",
+          "images/portfolio/gigwrksent/gigwrksent-3.png"
         ],
         "url": "",
         "technologies": [
@@ -25,93 +26,204 @@
             "name": "Angular"
           },
           {
+            "name": "Node",
+            "class": "devicon-nodejs-plain"
+          },
+          {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Flask",
+            "class": "devicon-flask-plain"
+          },
+          {
+            "name": "GraphQL",
+            "class": "devicon-graphql-plain"
+          },
+          {
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Senior Next.js & GraphQL Developer - Clublisi",
+        "startDate": "2022",
+        "description": "Built the Clublisi company website using Next, Faust, GraphQL, and WordPress(backend). Used Github for project management.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/clublisi/clublisi-1.png",
+          "images/portfolio/clublisi/clublisi-2.png",
+          "images/portfolio/clublisi/clublisi-3.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Next",
+            "class": "devicon-nextjs-plain"
+          },
+          {
+            "name": "GraphQL",
+            "class": "devicon-graphql-plain"
+          },
+          {
+            "name": "Node",
+            "class": "devicon-nodejs-plain"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Senior React Developer - Subflow",
+        "startDate": "2022",
+        "description": "Worked on the UI face lifting for the dashboard using React, Next.js, and Material Design. Contributed to the company product improvement efforts by adding new features and implementing architectures. Fixed bugs and tracked tickets using the Trello board.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/subflow/subflow-1.png",
+          "images/portfolio/subflow/subflow-2.png",
+          "images/portfolio/subflow/subflow-3.png"
         ],
-        "url": "https://github.com",
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "name": "Next",
+            "class": "devicon-nextjs-plain"
+          }
+        ]
+      },
+      {
+        "title": "Full-Stack Angular & Laravel Developer - EnrollPro",
+        "startDate": "2021",
+        "description": "Tied directly into preexisting patterns in a Laravel / Angular code base. Published designs with Adobe XD for manager and stakeholder feedbacks.  Programmed Stripe Subscription, Marketing email/text templates, Sending email/text, Chat, Admin page. Refactored existing code to adapt to newer features",
+        "images": [
+          "images/portfolio/enrollpro/enrollpro-1.png",
+          "images/portfolio/enrollpro/enrollpro-2.png",
+          "images/portfolio/enrollpro/enrollpro-3.png"
+        ],
+        "url": "",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
             "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Laravel",
+            "class": "devicon-laravel-plain"
+          }
+        ]
+      }
+      ,
+      {
+        "title": "Full Stack Developer - USAhemp",
+        "startDate": "2020",
+        "description": "I've independently developed an online store for USA Hemp, LLC. Laravel, Vue, PostgreSQL, Stripe, PayPal, MicroServices",
+        "images": [
+          "images/portfolio/usahemp/usahemp-1.png",
+          "images/portfolio/usahemp/usahemp-2.png",
+          "images/portfolio/usahemp/usahemp-3.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "name": "Laravel",
+            "class": "devicon-laravel-plain"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Vue",
+            "class": "devicon-vuejs-plain"
+          },
+          {
+            "name": "PostgreSQL",
+            "class": "devicon-postgresql-plain"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Gigworks",
+        "title": "Full-Stack Engineer (Startup)",
+        "years": "Apr 2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Angular 12"
         ],
         "technologies": [
+          "Node",
+          "Express",
+          "GraphQL",
+          "MongoDB",
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
-          ".NET Core",
-          "SignalR",
           "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Clublisi",
+        "title": "Senior Next.js & GraphQL Developer",
+        "years": "Oct 2022 - Dec 2023",
         "mainTech": [
-          "Angular 7/8"
+          "Next & GraphQL"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "Next",
+          "GraphQL",
+          "Wordpress",
           "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Subflow",
+        "title": "Senior React Developer",
+        "years": "Oct 2022 - Jan 2023",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "React",
+          "Material UI",
+          "SASS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "EnrollPro",
+        "title": "Full-Stack Angular & Laravel Developer",
+        "years": "Jan 2021 - Mar 2022",
+        "mainTech": [
+          "Angular & Laravel"
+        ],
+        "technologies": [
+          "Angular",
+          "Laravel",
+          "PHP",
+          "PostgreSQL",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "USA Hemp",
+        "title": "Full Stack Developer",
+        "years": "Feb 2020 - Jul 2020",
+        "mainTech": [
+          "Laravel & Vue"
+        ],
+        "technologies": [
+          "Laravel",
+          "Vue",
+          "PostgreSQL",
+          "Stripe",
+          "PayPal"
         ]
       }
     ]

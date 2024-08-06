@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Carlos Viruegas",
+      "titles": [ "Back-end Developer", "Front-end Developer", "React Native Mobile App Developer", "Dev Team lead" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/carlosviruegas",
           "class": "fab fa-github"
         },
         {
@@ -14,10 +14,95 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.jpeg"
     },
     "skills": {
       "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "100"
+        },
+        {
+          "name": "Next",
+          "class": "devicon-nextjs-plain",
+          "level": "90"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-plain",
+          "level": "90"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "90"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain",
+          "level": "90"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "100"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "100"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "100"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "100"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-plain",
+          "level": "100"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
+          "level": "100"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "100"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "GraphQL",
+          "class": "devicon-graphql-plain",
+          "level": "60"
+        },
+        {
+          "name": "DynamoDB",
+          "class": "devicon-dynamodb-plain",
+          "level": "60"
+        },
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
@@ -29,40 +114,27 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "95"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "95"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "95"
         }
+        
+        
       ]
     }
   }
